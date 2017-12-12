@@ -201,6 +201,14 @@ background-color: none;
    margin: 3%;
   padding: 1%;
 }
+#fast-img{
+
+   width: 550px;
+   border: 10px solid #F0F3F4;
+   padding: 20px;
+   margin: 0px;
+   outline: 20px;
+}
 #customer-images {
   text-align: center;
   float: left;
