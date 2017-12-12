@@ -176,6 +176,7 @@ li a:hover:not(.active) {
   margin-top: 50px;
   width: 100%;
   background-color: white;
+  padding:5%
 }
 #customers{
 background-color: none;
