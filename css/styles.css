@@ -209,6 +209,17 @@ background-color: none;
    margin: 0px;
    outline: 20px;
 }
+#dri-img{
+
+     width: 550px;
+     border: 10px solid #F0F3F4;
+     padding: 20px;
+     margin: 0px;
+     outline: 20px;
+}
+#drinks{
+
+}
 #customer-images {
   text-align: center;
   float: left;
@@ -228,7 +239,7 @@ color:#F15A29;
 .subscribe{
   background-image: url("../assets/backgrounds/subscribe.jpg");
   padding:100px;
-  align:center;
+  text-align:center;
   background-repeat: no-repeat;
   background-size: cover;
 }
