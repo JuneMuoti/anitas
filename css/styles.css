@@ -198,6 +198,8 @@ background-color: none;
   -webkit-box-shadow: 0px 1px 5px 7px lightgrey;
   -moz-box-shadow: 0px 1px 5px 7px lightgrey;
    box-shadow: 0px 1px 5px 7px lightgrey;
+   margin: 3%;
+  padding: 1%;
 }
 #customer-images {
   text-align: center;
